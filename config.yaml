@@ -11,8 +11,8 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: "Welcome to my blog!"
-    Content: Welcome t
+    Title: "👋 Welcome to Chen'Log"
+    Content: Hello, this is Jonathan. I'm using a blog to keep track of my learning notes throughout my career. I find most fields in software development quite fascinating, however I am probably going to specialize in backend, database/cloud, system design, and possibly machine learning.
   socialIcons:
     - name:   github
       url: "https://github.com/jonathanc-n"
